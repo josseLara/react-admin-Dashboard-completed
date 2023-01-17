@@ -36,4 +36,4 @@ React Admin Dashboard Tutorial desde cero. Usaremos React, Material UI, Nivo Cha
 ![Captura de pantalla (142)](https://user-images.githubusercontent.com/99273526/212802517-c97e299a-5c6f-435e-b2b0-3d5139e21db0.png)
 
 
-Proyecto realizado aprendido por EdRoh.
+Proyecto aprendido por EdRoh.
